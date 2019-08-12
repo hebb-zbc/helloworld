@@ -5,6 +5,7 @@ gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 
 print("udvikling...")
+print("ja...")
 
 window = Gtk.Window(title="Hello Github...")
 window.show()
